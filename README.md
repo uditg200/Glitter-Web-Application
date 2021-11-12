@@ -1,2 +1,0 @@
-"# Glitter" 
-"# Glitter-Web-Application" 
