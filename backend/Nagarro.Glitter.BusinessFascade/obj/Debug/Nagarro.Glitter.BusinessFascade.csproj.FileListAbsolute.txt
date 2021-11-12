@@ -1,0 +1,5 @@
+D:\backend\Nagarro.Glitter.BusinessFascade\bin\Debug\Nagarro.Glitter.BusinessFascade.dll
+D:\backend\Nagarro.Glitter.BusinessFascade\bin\Debug\Nagarro.Glitter.BusinessFascade.pdb
+D:\backend\Nagarro.Glitter.BusinessFascade\obj\Debug\Nagarro.Glitter.BusinessFascade.csproj.CoreCompileInputs.cache
+D:\backend\Nagarro.Glitter.BusinessFascade\obj\Debug\Nagarro.Glitter.BusinessFascade.dll
+D:\backend\Nagarro.Glitter.BusinessFascade\obj\Debug\Nagarro.Glitter.BusinessFascade.pdb

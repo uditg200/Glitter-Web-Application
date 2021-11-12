@@ -1,0 +1,12 @@
+D:\backend\Nagarro.Glitter.EntityDataModel\bin\Debug\Nagarro.Glitter.EntityDataModel.dll
+D:\backend\Nagarro.Glitter.EntityDataModel\bin\Debug\Nagarro.Glitter.EntityDataModel.pdb
+D:\backend\Nagarro.Glitter.EntityDataModel\obj\Debug\Nagarro.Glitter.EntityDataModel.csproj.CoreCompileInputs.cache
+D:\backend\Nagarro.Glitter.EntityDataModel\obj\Debug\Nagarro.Glitter.EntityDataModel.dll
+D:\backend\Nagarro.Glitter.EntityDataModel\obj\Debug\Nagarro.Glitter.EntityDataModel.pdb
+D:\backend\Nagarro.Glitter.EntityDataModel\bin\Debug\Nagarro.Glitter.EntityDataModel.dll.config
+D:\backend\Nagarro.Glitter.EntityDataModel\bin\Debug\EntityFramework.dll
+D:\backend\Nagarro.Glitter.EntityDataModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\backend\Nagarro.Glitter.EntityDataModel\bin\Debug\EntityFramework.xml
+D:\backend\Nagarro.Glitter.EntityDataModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\backend\Nagarro.Glitter.EntityDataModel\obj\Debug\Nagarro.Glitter.EntityDataModel.csproj.CopyComplete
+D:\backend\Nagarro.Glitter.EntityDataModel\obj\Debug\Nagarro.Glitter.EntityDataModel.csproj.AssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\backend\Nagarro.Glitter.Shared\bin\Debug\Nagarro.Glitter.Shared.dll
+D:\backend\Nagarro.Glitter.Shared\bin\Debug\Nagarro.Glitter.Shared.pdb
+D:\backend\Nagarro.Glitter.Shared\obj\Debug\Nagarro.Glitter.Shared.csproj.CoreCompileInputs.cache
+D:\backend\Nagarro.Glitter.Shared\obj\Debug\Nagarro.Glitter.Shared.dll
+D:\backend\Nagarro.Glitter.Shared\obj\Debug\Nagarro.Glitter.Shared.pdb
+D:\backend\Nagarro.Glitter.Shared\obj\Debug\Nagarro.Glitter.Shared.csproj.AssemblyReference.cache

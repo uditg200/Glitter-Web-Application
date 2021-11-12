@@ -1,0 +1,15 @@
+D:\backend\Nagarro.Glitter.Business\bin\Debug\Nagarro.Glitter.Business.dll
+D:\backend\Nagarro.Glitter.Business\bin\Debug\Nagarro.Glitter.Business.pdb
+D:\backend\Nagarro.Glitter.Business\obj\Debug\Nagarro.Glitter.Business.csproj.AssemblyReference.cache
+D:\backend\Nagarro.Glitter.Business\obj\Debug\Nagarro.Glitter.Business.csproj.CoreCompileInputs.cache
+D:\backend\Nagarro.Glitter.Business\obj\Debug\Nagarro.Glitter.Business.dll
+D:\backend\Nagarro.Glitter.Business\obj\Debug\Nagarro.Glitter.Business.pdb
+D:\backend\Nagarro.Glitter.Business\bin\Debug\Nagarro.Glitter.Data.dll
+D:\backend\Nagarro.Glitter.Business\bin\Debug\Nagarro.Glitter.EntityDataModel.dll
+D:\backend\Nagarro.Glitter.Business\bin\Debug\EntityFramework.dll
+D:\backend\Nagarro.Glitter.Business\bin\Debug\Nagarro.Glitter.Data.pdb
+D:\backend\Nagarro.Glitter.Business\bin\Debug\Nagarro.Glitter.Data.dll.config
+D:\backend\Nagarro.Glitter.Business\bin\Debug\Nagarro.Glitter.EntityDataModel.pdb
+D:\backend\Nagarro.Glitter.Business\bin\Debug\Nagarro.Glitter.EntityDataModel.dll.config
+D:\backend\Nagarro.Glitter.Business\bin\Debug\EntityFramework.xml
+D:\backend\Nagarro.Glitter.Business\obj\Debug\Nagarro.Glitter.Business.csproj.CopyComplete
